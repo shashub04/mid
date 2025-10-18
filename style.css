@@ -1,0 +1,9 @@
+ul{display:flex; gap:60px; letter-spacing: 6px;  justify-content: center;}
+nav{position:fixed; border: 2px solid lightpink; background-color: lightpink;}
+*{text-align: center;  text-decoration: none; color: maroon; }
+#title{border: 5px solid lightyellow; background-color: lightyellow; margin-top: 100px;}
+#table{border: 1px solid maroon;margin:50px; margin-left: auto; margin-right: auto; justify-content: center; text-align: left; background-color: beige; border-collapse: collapse;}
+th,td{border: 1px solid maroon}
+td{text-align:left;}
+body{background-color: lightpink;}
+p{color: white;}
